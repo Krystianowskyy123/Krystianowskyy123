@@ -10,13 +10,13 @@
 - 📋 I'm learning in Wrocław in Poland
 - 🌱 I’m currently learning jQuery
 - 🚗 I have a category B driving license
-- ✒️ Currently I’m working on CCNA II, CCNA III, IT Sepcialist Profession (351203)
+- ✒️ Currently, I’m working on CCNA II, CCNA III, IT Sepcialist Profession (351203)
 
 ### My Little Demons 😈
 
 <table>
   <tr><td> <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/acer.svg" /> Acer Nitro 5 [1 TB SSD, DDR4 8GB, nVidia GeForce MX150] </td></tr>
-  <tr><td> <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/samsung.svg" /> Samsung Galaxy A70 [128GB SSD, 6GB RAM] </td></tr>
+  <tr><td> <img height="32" background="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/samsung.svg" /> Samsung Galaxy A70 [128GB SSD, 6GB RAM] </td></tr>
   <tr><td> <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/samsung.svg" /> Samsung Galaxy Tab S7 [128GB SSD, 6GB RAM] </td></tr>
  </table>
  
