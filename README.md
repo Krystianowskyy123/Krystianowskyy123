@@ -9,6 +9,7 @@
 - 🚗 I have a category B driving license
 - ✒️ Currently, I’m working on IT Sepcialist Profession (351203)
 
+<!--
 ### My Little Demons 😈
 
 <table>
@@ -16,7 +17,7 @@
   <tr><td> <img height="32" background="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/samsung.svg" /> Samsung Galaxy A70 [128GB SSD, 6GB RAM] </td></tr>
   <tr><td> <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/samsung.svg" /> Samsung Galaxy Tab S7 [128GB SSD, 6GB RAM] </td></tr>
  </table>
- 
+ -->
 
  
 
@@ -38,7 +39,7 @@
 
 
 
-
+<!--
 ### Tools 🔧
 > Soon
 
@@ -64,5 +65,5 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />: 
 <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/samsung.svg" /> 
 <br />
-
+-->
 
