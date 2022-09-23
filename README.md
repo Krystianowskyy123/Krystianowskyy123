@@ -2,7 +2,7 @@
 ## Support Ukraine 🇺🇦 🟦🟨</big><br>
 ## London Bridge is Down 🇬🇧😥</big>
 
-![Vibhor Chaudhary's github stats](https://github-readme-stats.vercel.app/api?username=Krystianowskyy123&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+![github stats](https://github-readme-stats.vercel.app/api?username=Krystianowskyy123&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
 ### About me 🧑‍💻
 - 👋 I’m Krystian
