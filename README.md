@@ -1,5 +1,6 @@
 # Hi, welcome to my GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<big>Support Ukraine 🇺🇦 🟦🟨</big>
+
+<big>Support Ukraine 🇺🇦 🟦🟨</big><br>
 <big>London Bridge is Down 🇬🇧😥</big>
 
 ### About me 🧑‍💻
