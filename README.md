@@ -1,6 +1,6 @@
-# Support Ukraine 🇺🇦 🟦🟨
-# London Bridge is Down 🇬🇧😥
-Hi, welcome to my GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, welcome to my GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<big>Support Ukraine 🇺🇦 🟦🟨</big>
+<big>London Bridge is Down 🇬🇧😥</big>
 
 ### About me 🧑‍💻
 - 👋 I’m Krystian
@@ -21,7 +21,7 @@ Hi, welcome to my GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4i
 
  
 
-### Certtficates 📋
+### Certificates 📋
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cisco.svg" /> IT Essentials 5.0  
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cisco.svg" /> CCNA I: Introduction to Networks 7.0  
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cisco.svg" /> CCNA II: Swtching, Routing and Wireless Essentials 7.0  
