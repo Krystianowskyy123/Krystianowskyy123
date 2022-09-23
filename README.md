@@ -24,11 +24,14 @@
  
 
 ### Certtficates 📋
-- 2021 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cisco.svg" /> IT Essentials 5.0
-- 2021 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cisco.svg" /> CCNA I: Introduction to Networks 7.0
-- 2021 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" /> NDG Linux Essentials
-- 2021 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /> CPA Programming Essentials in C++
-- 2021 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> PCAP Programming Essentials in Python
+- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cisco.svg" /> IT Essentials 5.0
+- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cisco.svg" /> CCNA I: Introduction to Networks 7.0
+- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cisco.svg" /> CCNA II: Swtching, Routing and Wireless Essentials 7.0
+- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cisco.svg" /> CCNA III: Enterprise Networking and Automation 7.0
+- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cisco.svg" /> Network Security
+- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" /> NDG Linux Essentials
+- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /> CPA Programming Essentials in C++
+- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> PCAP Programming Essentials in Python
 
 
 
