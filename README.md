@@ -10,7 +10,7 @@
 - 📋 I'm learning in Wrocław in Poland
 - 🌱 I’m currently learning jQuery
 - 🚗 I have a category B driving license
-- ✒️ Currently, I’m working on CCNA II, CCNA III, IT Sepcialist Profession (351203)
+- ✒️ Currently, I’m working on IT Sepcialist Profession (351203)
 
 ### My Little Demons 😈
 
