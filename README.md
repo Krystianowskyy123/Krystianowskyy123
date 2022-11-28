@@ -1,6 +1,5 @@
 # Hi, welcome to my GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## Support Ukraine 🇺🇦 🟦🟨</big><br>
-## London Bridge is Down 🇬🇧😥</big>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Krystianowskyy123&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
