@@ -7,8 +7,7 @@
 - 👋 I’m Krystian
 - 🖥️ I’m interested in IoT, OS, CyberSecurity
 - 📋 I'm studying IT in Wrocław in Poland
-- 🚗 I have a category B driving license
-- ✒️ Currently, I’m working on IT Sepcialist Profession (351203)
+
 
 <!--
 ### My Little Demons 😈
