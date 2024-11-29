@@ -9,37 +9,8 @@
 - 📋 I'm studying IT in Wrocław in Poland
 
 
-<!--
-### My Little Demons 😈
-
-<table>
-  <tr><td> <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/acer.svg" /> Acer Nitro 5 [1 TB SSD, DDR4 8GB, nVidia GeForce MX150] </td></tr>
-  <tr><td> <img height="32" background="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/samsung.svg" /> Samsung Galaxy A70 [128GB SSD, 6GB RAM] </td></tr>
-  <tr><td> <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/samsung.svg" /> Samsung Galaxy Tab S7 [128GB SSD, 6GB RAM] </td></tr>
- </table>
- -->
-
- 
-
-### Certificates 📋
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cisco.svg" /> IT Essentials 5.0  
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cisco.svg" /> CCNA I: Introduction to Networks 7.0  
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cisco.svg" /> CCNA II: Swtching, Routing and Wireless Essentials 7.0  
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cisco.svg" /> CCNA III: Enterprise Networking and Automation 7.0  
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cisco.svg" /> Network Security  
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" /> NDG Linux Essentials  
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /> CPA Programming Essentials in C++  
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> PCAP Programming Essentials in Python  
-
-
-
-
-### Languages 💾 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /> 
-
-
 ## Later!
-<!--  Call me by your name <3  -->
+
 
 
 <!--
